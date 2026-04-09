@@ -124,10 +124,3 @@ This project demonstrates how a simple static website like your bakery page  can
 **Varsha Verma**
 Senior Cloud Engineer | DevOps Enthusiast | Speaker
 
----
-
-If you want, I can also:
-
-* Add **GitHub Actions CI/CD README section**
-* Create a **student-friendly workshop version**
-* Or convert this into a **portfolio-grade repo (with badges + diagrams)**
