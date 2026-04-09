@@ -1,6 +1,3 @@
-Here’s a clean and professional **README.md** tailored for your project 👇
-
----
 
 # 🍰 Blush Bakery Website (Dockerized)
 
